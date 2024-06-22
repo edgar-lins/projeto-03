@@ -6,7 +6,7 @@
 
 Formulário construído na formação explorer - Fullstack da Rocketseat.
 
-[Clique aqui para acessar](https://edgar-lins.github.io/projeto-02/)
+[Clique aqui para acessar](https://edgar-lins.github.io/projeto-03/)
 
 ## 🛠 Tecnologias 
 
